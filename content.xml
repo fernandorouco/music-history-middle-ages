@@ -24,11 +24,11 @@
 <odeProperties>
   <odeProperty>
     <key>pp_title</key>
-    <value>MUSIC 3º ESO</value>
+    <value>History of Music - Middle Ages</value>
   </odeProperty>
   <odeProperty>
     <key>pp_subtitle</key>
-    <value>History of Music</value>
+    <value>Gregorian Chant and secular music</value>
   </odeProperty>
   <odeProperty>
     <key>pp_author</key>
@@ -36,7 +36,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_description</key>
-    <value>A trip from the Middle Ages with the gregorian chant to Bad Bunny.</value>
+    <value>Our trip begins in the Middle Ages.</value>
   </odeProperty>
   <odeProperty>
     <key>pp_lang</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1790617495989</value>
+    <value>1790971235064</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -136,7 +136,7 @@
       <odePageId>page-mulf0ccr-be5x9e5qa</odePageId>
       <odeBlockId>block-mulf0iuq-j8tc6vpyd</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>mi-back_hand</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -276,7 +276,7 @@
       <odePageId>4a7a7661-8af0-47ab-a9eb-ebb5cf9a8554</odePageId>
       <odeBlockId>block-mulal0p0-ivfz6z7p1</odeBlockId>
       <blockName>Historical Context</blockName>
-      <iconName></iconName>
+      <iconName>history</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -307,13 +307,13 @@
           <odeIdeviceId>idevice-1790602646723-46dys8ni3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>The Middle Ages span a long period of time <strong>(5th to 15th centuries)</strong>.  The main characteristics of this period were:</p>
-<ul>
+    <p style="text-align: justify;">The Middle Ages span a long period of time <strong>(5th to 15th centuries)</strong>.  The main characteristics of this period were:</p>
+<ul style="text-align: justify;">
 <li><strong>Society</strong> was <strong>divided into closed groups</strong> with virtually no social mobility: the nobility and the clergy (the privileged classes) and the peasantry (who worked the land).</li>
 <li><strong>The political and economic system was feudalism</strong>:  based on a relationship of vassalage, whereby the king or the nobles granted land in exchange for loyalty and military protection.</li>
 <li><strong>The Catholic faith dominated everyday life</strong>: the power of the Church dominated daily life, culture and thought of the era.</li>
 </ul>
-<p>During this period, musical forms such as <strong>Gregorian chant</strong> and <strong>secular</strong> <strong>music</strong> predominated, and it was during this time that <strong>polyphony</strong> first emerged.<strong></strong></p>
+<p style="text-align: justify;">During this period, musical forms such as <strong>Gregorian chant</strong> and <strong>secular</strong> <strong>music</strong> predominated, and it was during this time that <strong>polyphony</strong> first emerged.<strong></strong></p>
 <table border="1" style="width: 100%;">
 <tbody>
 <tr>
@@ -333,7 +333,7 @@
 <p>    1.5 - <strong>Instruments</strong> of the Middle Ages.</p>
 <p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790602646723-46dys8ni3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>The Middle Ages span a long period of time <strong>(5th to 15th centuries)</strong>.  The main characteristics of this period were:</p>\n<ul>\n<li><strong>Society</strong> was <strong>divided into closed groups</strong> with virtually no social mobility: the nobility and the clergy (the privileged classes) and the peasantry (who worked the land).</li>\n<li><strong>The political and economic system was feudalism</strong>:  based on a relationship of vassalage, whereby the king or the nobles granted land in exchange for loyalty and military protection.</li>\n<li><strong>The Catholic faith dominated everyday life</strong>: the power of the Church dominated daily life, culture and thought of the era.</li>\n</ul>\n<p>During this period, musical forms such as <strong>Gregorian chant</strong> and <strong>secular</strong> <strong>music</strong> predominated, and it was during this time that <strong>polyphony</strong> first emerged.<strong></strong></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.2991%;\"><img src=\"{{context_path}}/content/resources/IMAGES/monjes-cantando.jpg\" width=\"368\" height=\"305\" alt=\"\" /><br /></td>\n<td style=\"width: 33.2991%;\"><img src=\"{{context_path}}/content/resources/IMAGES/Vihuela_de_arco_y_vihuela_de_penhola_en_las_Cantigas.jpg\" width=\"840\" height=\"938\" alt=\"\" /><br /></td>\n<td style=\"width: 33.2991%;\"><img src=\"{{context_path}}/content/resources/IMAGES/634dcb7fe9437.webp\" width=\"680\" height=\"510\" alt=\"\" /></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><strong>What are we going to learn?</strong></p>\n<p>1. Medieval music</p>\n<p>    1.1 – <strong>Monophonic</strong> <strong>religious</strong> music: Gregorian chant.</p>\n<p>    1.2 – <strong>Monophonic</strong> <strong>secular</strong> music: troubadours and trouvères.</p>\n<p>    1.3 – The <strong>Cantigas</strong> of Alfonso X the Wise.</p>\n<p>    1.4 – The birth of <strong>polyphony</strong>.</p>\n<p>    1.5 - <strong>Instruments</strong> of the Middle Ages.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790602646723-46dys8ni3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">The Middle Ages span a long period of time <strong>(5th to 15th centuries)</strong>.  The main characteristics of this period were:</p>\n<ul style=\"text-align: justify;\">\n<li><strong>Society</strong> was <strong>divided into closed groups</strong> with virtually no social mobility: the nobility and the clergy (the privileged classes) and the peasantry (who worked the land).</li>\n<li><strong>The political and economic system was feudalism</strong>:  based on a relationship of vassalage, whereby the king or the nobles granted land in exchange for loyalty and military protection.</li>\n<li><strong>The Catholic faith dominated everyday life</strong>: the power of the Church dominated daily life, culture and thought of the era.</li>\n</ul>\n<p style=\"text-align: justify;\">During this period, musical forms such as <strong>Gregorian chant</strong> and <strong>secular</strong> <strong>music</strong> predominated, and it was during this time that <strong>polyphony</strong> first emerged.<strong></strong></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.2991%;\"><img src=\"{{context_path}}/content/resources/IMAGES/monjes-cantando.jpg\" width=\"368\" height=\"305\" alt=\"\" /><br /></td>\n<td style=\"width: 33.2991%;\"><img src=\"{{context_path}}/content/resources/IMAGES/Vihuela_de_arco_y_vihuela_de_penhola_en_las_Cantigas.jpg\" width=\"840\" height=\"938\" alt=\"\" /><br /></td>\n<td style=\"width: 33.2991%;\"><img src=\"{{context_path}}/content/resources/IMAGES/634dcb7fe9437.webp\" width=\"680\" height=\"510\" alt=\"\" /></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><strong>What are we going to learn?</strong></p>\n<p>1. Medieval music</p>\n<p>    1.1 – <strong>Monophonic</strong> <strong>religious</strong> music: Gregorian chant.</p>\n<p>    1.2 – <strong>Monophonic</strong> <strong>secular</strong> music: troubadours and trouvères.</p>\n<p>    1.3 – The <strong>Cantigas</strong> of Alfonso X the Wise.</p>\n<p>    1.4 – The birth of <strong>polyphony</strong>.</p>\n<p>    1.5 - <strong>Instruments</strong> of the Middle Ages.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -483,7 +483,8 @@
           <odeIdeviceId>idevice-1790603090205-pr3khnvc2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Listen to the following excerpt from a Gregorian chant and answer the following questions:</p>
+    <p><strong>🎧 Listening 1</strong></p>
+<p>Listen to the following excerpt from a Gregorian chant and answer the following questions:</p>
 <p><a href="https://www.youtube.com/watch?v=ZvmWHDB8-wg&amp;list=RDZvmWHDB8-wg&amp;start_radio=1" target="_blank" rel="noopener" title="">Gregorian chant - Veni Creator Spiritus</a></p>
 <p><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/AUDIOS/Veni creator Spiritus.mp3"></audio></p>
 <ol style="list-style-type: lower-alpha;">
@@ -494,7 +495,7 @@
 <p>After listening, the following characteristics of Gregorian chant can be identified:</p>
 <p><img src="{{context_path}}/content/resources/IMAGES/96b9b55c-fc00-4af8-97ff-da2bb2651bef-damMedia-14-2-image.png" width="770" height="296" alt="" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790603090205-pr3khnvc2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Listen to the following excerpt from a Gregorian chant and answer the following questions:</p>\n<p><a href=\"https://www.youtube.com/watch?v=ZvmWHDB8-wg&amp;list=RDZvmWHDB8-wg&amp;start_radio=1\" target=\"_blank\" rel=\"noopener\" title=\"\">Gregorian chant - Veni Creator Spiritus</a></p>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/AUDIOS/Veni creator Spiritus.mp3\"></audio></p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Can you hear any instruments, or just voices?</li>\n<li>Are they singing in one voice or in several voices?</li>\n<li>Could you tell which language they are singing in?</li>\n</ol>\n<p>After listening, the following characteristics of Gregorian chant can be identified:</p>\n<p><img src=\"{{context_path}}/content/resources/IMAGES/96b9b55c-fc00-4af8-97ff-da2bb2651bef-damMedia-14-2-image.png\" width=\"770\" height=\"296\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790603090205-pr3khnvc2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>🎧 Listening 1</strong></p>\n<p>Listen to the following excerpt from a Gregorian chant and answer the following questions:</p>\n<p><a href=\"https://www.youtube.com/watch?v=ZvmWHDB8-wg&amp;list=RDZvmWHDB8-wg&amp;start_radio=1\" target=\"_blank\" rel=\"noopener\" title=\"\">Gregorian chant - Veni Creator Spiritus</a></p>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/AUDIOS/Veni creator Spiritus.mp3\"></audio></p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li>Can you hear any instruments, or just voices?</li>\n<li>Are they singing in one voice or in several voices?</li>\n<li>Could you tell which language they are singing in?</li>\n</ol>\n<p>After listening, the following characteristics of Gregorian chant can be identified:</p>\n<p><img src=\"{{context_path}}/content/resources/IMAGES/96b9b55c-fc00-4af8-97ff-da2bb2651bef-damMedia-14-2-image.png\" width=\"770\" height=\"296\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -548,18 +549,18 @@
           <odeIdeviceId>idevice-1790603871161-qrdh6g3wm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Throughout the first few units, we’ll hear a lot about texture and types of texture. Let’s find out what they mean.</p>
-<p><strong>Texture</strong>: this is the way in which different melodies, rhythms and voices are combined and relate to one another within a musical work.</p>
-<p>Tipos de textura:</p>
-<ul>
+    <p style="text-align: justify;">Throughout the first few units, we’ll hear a lot about texture and types of texture. Let’s find out what they mean.</p>
+<p style="text-align: justify;"><strong>Texture</strong>: this is the way in which different melodies, rhythms and voices are combined and relate to one another within a musical work.</p>
+<p style="text-align: justify;">Tipos de textura:</p>
+<ul style="text-align: justify;">
 <li><strong>Monophony</strong> (or monody): This consists of a single melodic line without any accompaniment or harmony. If several people sing or play exactly the same notes at the same time, this is also monophony.</li>
 <li><strong>Homophony</strong>: Several voices or melodies sound at the same time with different notes, but sharing the same rhythm (they move together, forming blocks of chords).</li>
 <li><strong>Polyphony</strong>: Several voices or melodic lines sound at the same time, but are independent of one another and follow different rhythms. The melodies intertwine and compete for prominence.</li>
 <li><strong>Melody and accompaniment</strong>: a melody stands out against an accompaniment.</li>
 </ul>
-<p><img src="{{context_path}}/content/resources/IMAGES/Textura_cuadro_resumen.jpg" width="912" height="590" alt="" /></p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/IMAGES/Textura_cuadro_resumen.jpg" width="912" height="590" alt="" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790603871161-qrdh6g3wm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Throughout the first few units, we’ll hear a lot about texture and types of texture. Let’s find out what they mean.</p>\n<p><strong>Texture</strong>: this is the way in which different melodies, rhythms and voices are combined and relate to one another within a musical work.</p>\n<p>Tipos de textura:</p>\n<ul>\n<li><strong>Monophony</strong> (or monody): This consists of a single melodic line without any accompaniment or harmony. If several people sing or play exactly the same notes at the same time, this is also monophony.</li>\n<li><strong>Homophony</strong>: Several voices or melodies sound at the same time with different notes, but sharing the same rhythm (they move together, forming blocks of chords).</li>\n<li><strong>Polyphony</strong>: Several voices or melodic lines sound at the same time, but are independent of one another and follow different rhythms. The melodies intertwine and compete for prominence.</li>\n<li><strong>Melody and accompaniment</strong>: a melody stands out against an accompaniment.</li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/IMAGES/Textura_cuadro_resumen.jpg\" width=\"912\" height=\"590\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790603871161-qrdh6g3wm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Throughout the first few units, we’ll hear a lot about texture and types of texture. Let’s find out what they mean.</p>\n<p style=\"text-align: justify;\"><strong>Texture</strong>: this is the way in which different melodies, rhythms and voices are combined and relate to one another within a musical work.</p>\n<p style=\"text-align: justify;\">Tipos de textura:</p>\n<ul style=\"text-align: justify;\">\n<li><strong>Monophony</strong> (or monody): This consists of a single melodic line without any accompaniment or harmony. If several people sing or play exactly the same notes at the same time, this is also monophony.</li>\n<li><strong>Homophony</strong>: Several voices or melodies sound at the same time with different notes, but sharing the same rhythm (they move together, forming blocks of chords).</li>\n<li><strong>Polyphony</strong>: Several voices or melodic lines sound at the same time, but are independent of one another and follow different rhythms. The melodies intertwine and compete for prominence.</li>\n<li><strong>Melody and accompaniment</strong>: a melody stands out against an accompaniment.</li>\n</ul>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/IMAGES/Textura_cuadro_resumen.jpg\" width=\"912\" height=\"590\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -708,7 +709,8 @@
           <odeIdeviceId>idevice-mulblgs8-u3rlttz1w</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Listen to a clip of the song Tant ai aimé (I have loved so much), from medieval minstrel Conon de Béthune. In your Workbook, write about the differences you can hear in comparison to Gregorian chant.</p>
+    <p style="text-align: justify;"><strong>🎧 Listening 2</strong></p>
+<p style="text-align: justify;">Listen to a clip of the song Tant ai aimé (I have loved so much), from medieval minstrel Conon de Béthune. In your Workbook, write about the differences you can hear in comparison to Gregorian chant.</p>
 <p style="text-align: center;"><span style="font-size: 8pt;"><em>(Bear in mind that the original composition dates from the 12th century and consists of just a single melodic line, with no harmony or chords. However, as it is a secular piece, it is highly likely that it was performed with instruments, which would have played the same melody as the voice, meaning that it remains monophonic in texture).</em></span></p>
 <p><a href="https://www.youtube.com/watch?v=XmBz0EJilDM&amp;list=RDXmBz0EJilDM&amp;start_radio=1" title="">Conon de Béthune - Tant ai aimé (Tanto he amado)</a></p>
 <p><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/AUDIOS/Conon de Bethune - Tant ai ame (Chanson monofonica).mp3"></audio></p>
@@ -716,7 +718,7 @@
 <p>From the previous listening, the following main characteristics of troubadour music can be deduced:</p>
 <p><img src="{{context_path}}/content/resources/IMAGES/96b9c0ad-ea78-44d7-9f10-5c76e0b8eacc-damMedia-13-1-image.jpeg" width="832" height="286" alt="" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mulblgs8-u3rlttz1w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Listen to a clip of the song Tant ai aimé (I have loved so much), from medieval minstrel Conon de Béthune. In your Workbook, write about the differences you can hear in comparison to Gregorian chant.</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 8pt;\"><em>(Bear in mind that the original composition dates from the 12th century and consists of just a single melodic line, with no harmony or chords. However, as it is a secular piece, it is highly likely that it was performed with instruments, which would have played the same melody as the voice, meaning that it remains monophonic in texture).</em></span></p>\n<p><a href=\"https://www.youtube.com/watch?v=XmBz0EJilDM&amp;list=RDXmBz0EJilDM&amp;start_radio=1\" title=\"\">Conon de Béthune - Tant ai aimé (Tanto he amado)</a></p>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/AUDIOS/Conon de Bethune - Tant ai ame (Chanson monofonica).mp3\"></audio></p>\n<ol style=\"list-style-type: lower-alpha;\"></ol>\n<p>From the previous listening, the following main characteristics of troubadour music can be deduced:</p>\n<p><img src=\"{{context_path}}/content/resources/IMAGES/96b9c0ad-ea78-44d7-9f10-5c76e0b8eacc-damMedia-13-1-image.jpeg\" width=\"832\" height=\"286\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mulblgs8-u3rlttz1w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>🎧 Listening 2</strong></p>\n<p style=\"text-align: justify;\">Listen to a clip of the song Tant ai aimé (I have loved so much), from medieval minstrel Conon de Béthune. In your Workbook, write about the differences you can hear in comparison to Gregorian chant.</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 8pt;\"><em>(Bear in mind that the original composition dates from the 12th century and consists of just a single melodic line, with no harmony or chords. However, as it is a secular piece, it is highly likely that it was performed with instruments, which would have played the same melody as the voice, meaning that it remains monophonic in texture).</em></span></p>\n<p><a href=\"https://www.youtube.com/watch?v=XmBz0EJilDM&amp;list=RDXmBz0EJilDM&amp;start_radio=1\" title=\"\">Conon de Béthune - Tant ai aimé (Tanto he amado)</a></p>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/AUDIOS/Conon de Bethune - Tant ai ame (Chanson monofonica).mp3\"></audio></p>\n<ol style=\"list-style-type: lower-alpha;\"></ol>\n<p>From the previous listening, the following main characteristics of troubadour music can be deduced:</p>\n<p><img src=\"{{context_path}}/content/resources/IMAGES/96b9c0ad-ea78-44d7-9f10-5c76e0b8eacc-damMedia-13-1-image.jpeg\" width=\"832\" height=\"286\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -808,7 +810,7 @@
           <odeIdeviceId>idevice-mulc2go2-mk9r1hxs5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>One of the great treasures of Spanish medieval secular music is the huge collection of Cantigas de Santa María, by Alfonso X el Sabio (1221–1284). We know that the King was not only the person who organised this collection, he also participated in it, composing some of the cantigas . This collection features almost 2,000 miniatures, providing very valuable information about everyday life, the blend of cultures in Spain and the study of instruments of the time.</p>
+    <p style="text-align: justify;">One of the great treasures of Spanish medieval secular music is the huge collection of Cantigas de Santa María, by Alfonso X el Sabio (1221–1284). We know that the King was not only the person who organised this collection, he also participated in it, composing some of the cantigas . This collection features almost 2,000 miniatures, providing very valuable information about everyday life, the blend of cultures in Spain and the study of instruments of the time.</p>
 <table border="1" style="width: 100%; background-color: #c2e0f4; height: 57px;">
 <tbody>
 <tr style="height: 57px;">
@@ -819,9 +821,9 @@
 <p><br /></p>
 <p><img src="{{context_path}}/content/resources/IMAGES/Clave_B_Fig_01_5_5_1.png" width="600" height="600" alt="" /></p>
 <p>Thanks to the surviving miniatures we have invaluable information about the instruments of the period and evidence that they were played whilst the songs were being sung.</p>
-<p>Cantigas <strong>recounted</strong> the miracles of the Virgin (some were in praise of these). Cantigas are structured by continuously alternating between the <strong>chorus</strong> and different <strong>verses</strong>. At the end of each verse, the last lines use the same rhyme and music as the chorus. <strong>One of the most famous cantigas is Cantiga de Santa María n.º 100</strong>, known as «Santa María, strela do dia».</p>
+<p style="text-align: justify;">Cantigas <strong>recounted</strong> the miracles of the Virgin (some were in praise of these). Cantigas are structured by continuously alternating between the <strong>chorus</strong> and different <strong>verses</strong>. At the end of each verse, the last lines use the same rhyme and music as the chorus. <strong>One of the most famous cantigas is Cantiga de Santa María n.º 100</strong>, known as «Santa María, strela do dia».</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mulc2go2-mk9r1hxs5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>One of the great treasures of Spanish medieval secular music is the huge collection of Cantigas de Santa María, by Alfonso X el Sabio (1221–1284). We know that the King was not only the person who organised this collection, he also participated in it, composing some of the cantigas . This collection features almost 2,000 miniatures, providing very valuable information about everyday life, the blend of cultures in Spain and the study of instruments of the time.</p>\n<table border=\"1\" style=\"width: 100%; background-color: #c2e0f4; height: 57px;\">\n<tbody>\n<tr style=\"height: 57px;\">\n<td style=\"width: 99.8972%; height: 57px; text-align: center;\">Cantiga refers to a type of poetic-musical composition in the Galician-Portuguese language. <strong>Note</strong>: although the lyrics deal with religious themes, it is considered <strong>secular</strong> <strong>music</strong>.</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/IMAGES/Clave_B_Fig_01_5_5_1.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n<p>Thanks to the surviving miniatures we have invaluable information about the instruments of the period and evidence that they were played whilst the songs were being sung.</p>\n<p>Cantigas <strong>recounted</strong> the miracles of the Virgin (some were in praise of these). Cantigas are structured by continuously alternating between the <strong>chorus</strong> and different <strong>verses</strong>. At the end of each verse, the last lines use the same rhyme and music as the chorus. <strong>One of the most famous cantigas is Cantiga de Santa María n.º 100</strong>, known as «Santa María, strela do dia».</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mulc2go2-mk9r1hxs5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">One of the great treasures of Spanish medieval secular music is the huge collection of Cantigas de Santa María, by Alfonso X el Sabio (1221–1284). We know that the King was not only the person who organised this collection, he also participated in it, composing some of the cantigas . This collection features almost 2,000 miniatures, providing very valuable information about everyday life, the blend of cultures in Spain and the study of instruments of the time.</p>\n<table border=\"1\" style=\"width: 100%; background-color: #c2e0f4; height: 57px;\">\n<tbody>\n<tr style=\"height: 57px;\">\n<td style=\"width: 99.8972%; height: 57px; text-align: center;\">Cantiga refers to a type of poetic-musical composition in the Galician-Portuguese language. <strong>Note</strong>: although the lyrics deal with religious themes, it is considered <strong>secular</strong> <strong>music</strong>.</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/IMAGES/Clave_B_Fig_01_5_5_1.png\" width=\"600\" height=\"600\" alt=\"\" /></p>\n<p>Thanks to the surviving miniatures we have invaluable information about the instruments of the period and evidence that they were played whilst the songs were being sung.</p>\n<p style=\"text-align: justify;\">Cantigas <strong>recounted</strong> the miracles of the Virgin (some were in praise of these). Cantigas are structured by continuously alternating between the <strong>chorus</strong> and different <strong>verses</strong>. At the end of each verse, the last lines use the same rhyme and music as the chorus. <strong>One of the most famous cantigas is Cantiga de Santa María n.º 100</strong>, known as «Santa María, strela do dia».</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -875,12 +877,13 @@
           <odeIdeviceId>idevice-mulc2go2-lkqwl89o5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Listen to the following excerpt from the Cantiga de Santa María No. 100, known as ‘Santa María, strela do dia’.</p>
+    <p><strong>🎧 Listening 3</strong></p>
+<p>Listen to the following excerpt from the Cantiga de Santa María No. 100, known as ‘Santa María, strela do dia’.</p>
 <p><a href="https://www.youtube.com/watch?v=UbwO5fw3LIs&amp;list=RDUbwO5fw3LIs&amp;start_radio=1" target="_blank" title="" rel="noopener">Alfonso X - Santa Maria Strela do dia</a></p>
 <p><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/AUDIOS/Alfonso X - Santa Maria strela do dia (Cantigas de Santa Maria).mp3"></audio></p>
 <ol style="list-style-type: lower-alpha;"></ol>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mulc2go2-lkqwl89o5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Listen to the following excerpt from the Cantiga de Santa María No. 100, known as ‘Santa María, strela do dia’.</p>\n<p><a href=\"https://www.youtube.com/watch?v=UbwO5fw3LIs&amp;list=RDUbwO5fw3LIs&amp;start_radio=1\" target=\"_blank\" title=\"\" rel=\"noopener\">Alfonso X - Santa Maria Strela do dia</a></p>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/AUDIOS/Alfonso X - Santa Maria strela do dia (Cantigas de Santa Maria).mp3\"></audio></p>\n<ol style=\"list-style-type: lower-alpha;\"></ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mulc2go2-lkqwl89o5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>🎧 Listening 3</strong></p>\n<p>Listen to the following excerpt from the Cantiga de Santa María No. 100, known as ‘Santa María, strela do dia’.</p>\n<p><a href=\"https://www.youtube.com/watch?v=UbwO5fw3LIs&amp;list=RDUbwO5fw3LIs&amp;start_radio=1\" target=\"_blank\" title=\"\" rel=\"noopener\">Alfonso X - Santa Maria Strela do dia</a></p>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/AUDIOS/Alfonso X - Santa Maria strela do dia (Cantigas de Santa Maria).mp3\"></audio></p>\n<ol style=\"list-style-type: lower-alpha;\"></ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1061,12 +1064,13 @@
           <odeIdeviceId>idevice-mulcdkkn-9yzybaam3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Listen to an excerpt from Léonin’s <em>Organum</em> entitled <em>Viderunt Omnes.</em></p>
+    <p><strong>🎧 Listening 4</strong></p>
+<p>Listen to an excerpt from Léonin’s <em>Organum</em> entitled <em>Viderunt Omnes.</em></p>
 <p><a href="https://www.youtube.com/watch?v=ghpPrR1K1zo&amp;list=RDghpPrR1K1zo&amp;start_radio=1" title="">Viderunt Omnes (Organum)</a></p>
 <p><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/AUDIOS/Leonin - Viderunt omnes (Organum Ars Antiqua.mp3"></audio></p>
 <ol style="list-style-type: lower-alpha;"></ol>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mulcdkkn-9yzybaam3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Listen to an excerpt from Léonin’s <em>Organum</em> entitled <em>Viderunt Omnes.</em></p>\n<p><a href=\"https://www.youtube.com/watch?v=ghpPrR1K1zo&amp;list=RDghpPrR1K1zo&amp;start_radio=1\" title=\"\">Viderunt Omnes (Organum)</a></p>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/AUDIOS/Leonin - Viderunt omnes (Organum Ars Antiqua.mp3\"></audio></p>\n<ol style=\"list-style-type: lower-alpha;\"></ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mulcdkkn-9yzybaam3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>🎧 Listening 4</strong></p>\n<p>Listen to an excerpt from Léonin’s <em>Organum</em> entitled <em>Viderunt Omnes.</em></p>\n<p><a href=\"https://www.youtube.com/watch?v=ghpPrR1K1zo&amp;list=RDghpPrR1K1zo&amp;start_radio=1\" title=\"\">Viderunt Omnes (Organum)</a></p>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/AUDIOS/Leonin - Viderunt omnes (Organum Ars Antiqua.mp3\"></audio></p>\n<ol style=\"list-style-type: lower-alpha;\"></ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1120,13 +1124,14 @@
           <odeIdeviceId>idevice-mulcyxl1-22i74wvov</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Listen to an excerpt from a <strong>medieval</strong> <strong>motet</strong>. Look at the score to see that it is a three-part piece and that each part has its own text. Can you identify when and in what order each part enters in the recording? You can see the answer in the linked video.</p>
+    <p><strong>🎧 Listening 5</strong></p>
+<p>Listen to an excerpt from a <strong>medieval</strong> <strong>motet</strong>. Look at the score to see that it is a three-part piece and that each part has its own text. Can you identify when and in what order each part enters in the recording? You can see the answer in the linked video.</p>
 <p><a href="https://www.youtube.com/watch?v=1JFE-G_tQRs&amp;list=RD1JFE-G_tQRs&amp;start_radio=1" title="">Frese Nouvele (Motet)</a></p>
 <p><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/AUDIOS/Frese Nouvele (Motete).mp3"></audio></p>
 <ol style="list-style-type: lower-alpha;"></ol>
 <p><img src="{{context_path}}/content/resources/IMAGES/96e8bb82-4234-4997-88d1-f0951478fd91-damMedia-5-image.jpeg" width="1231" height="376" alt="" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mulcyxl1-22i74wvov","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Listen to an excerpt from a <strong>medieval</strong> <strong>motet</strong>. Look at the score to see that it is a three-part piece and that each part has its own text. Can you identify when and in what order each part enters in the recording? You can see the answer in the linked video.</p>\n<p><a href=\"https://www.youtube.com/watch?v=1JFE-G_tQRs&amp;list=RD1JFE-G_tQRs&amp;start_radio=1\" title=\"\">Frese Nouvele (Motet)</a></p>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/AUDIOS/Frese Nouvele (Motete).mp3\"></audio></p>\n<ol style=\"list-style-type: lower-alpha;\"></ol>\n<p><img src=\"{{context_path}}/content/resources/IMAGES/96e8bb82-4234-4997-88d1-f0951478fd91-damMedia-5-image.jpeg\" width=\"1231\" height=\"376\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mulcyxl1-22i74wvov","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>🎧 Listening 5</strong></p>\n<p>Listen to an excerpt from a <strong>medieval</strong> <strong>motet</strong>. Look at the score to see that it is a three-part piece and that each part has its own text. Can you identify when and in what order each part enters in the recording? You can see the answer in the linked video.</p>\n<p><a href=\"https://www.youtube.com/watch?v=1JFE-G_tQRs&amp;list=RD1JFE-G_tQRs&amp;start_radio=1\" title=\"\">Frese Nouvele (Motet)</a></p>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/AUDIOS/Frese Nouvele (Motete).mp3\"></audio></p>\n<ol style=\"list-style-type: lower-alpha;\"></ol>\n<p><img src=\"{{context_path}}/content/resources/IMAGES/96e8bb82-4234-4997-88d1-f0951478fd91-damMedia-5-image.jpeg\" width=\"1231\" height=\"376\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1187,7 +1192,7 @@
       <odePageId>page-muldhskd-1l8uot2kd</odePageId>
       <odeBlockId>block-muldi1o3-whmr1y8ql</odeBlockId>
       <blockName></blockName>
-      <iconName></iconName>
+      <iconName>mi-piano</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1360,8 +1365,8 @@
     <odePagStructure>
       <odePageId>page-muld68x8-d3u96ypq0</odePageId>
       <odeBlockId>block-mulezc0m-tfjj5skmr</odeBlockId>
-      <blockName>Spotify Playlist</blockName>
-      <iconName></iconName>
+      <blockName>Playlist</blockName>
+      <iconName>mi-books_movies_and_music</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1393,8 +1398,9 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><iframe width="100%" height="352" style="border-radius: 12px;" data-testid="embed-iframe" src="https://open.spotify.com/embed/playlist/46uHUJhQN5qJVw5jyBw92U?utm_source=generator&amp;si=6de78e7818c844d6" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=B-oEJBP1uytfJmdv&amp;list=PLb-P5UijSxJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790610033045-zodvea3qg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100%\" height=\"352\" style=\"border-radius: 12px;\" data-testid=\"embed-iframe\" src=\"https://open.spotify.com/embed/playlist/46uHUJhQN5qJVw5jyBw92U?utm_source=generator&amp;si=6de78e7818c844d6\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790610033045-zodvea3qg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100%\" height=\"352\" style=\"border-radius: 12px;\" data-testid=\"embed-iframe\" src=\"https://open.spotify.com/embed/playlist/46uHUJhQN5qJVw5jyBw92U?utm_source=generator&amp;si=6de78e7818c844d6\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?si=B-oEJBP1uytfJmdv&amp;list=PLb-P5UijSxJ8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
